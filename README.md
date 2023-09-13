@@ -9,7 +9,7 @@ A Assignment Management System Project In PHP users can be only created by admin
 When creating a project, the admin or project managers must list all the employees that will handle the project’s tasks.
 >
 ***FEATURES***
-  •	Login Page
+ > •	Login Page
   •	Home Page
   •	Project (CRUD Features)
   •	Task List Page
