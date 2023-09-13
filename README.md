@@ -19,6 +19,8 @@ When creating a project, the admin or project managers must list all the employe
   •	Report Generation
   •	User (CRUD Features)
 ```
+>
+>
 ***SCREEN:***
 ![image](https://github.com/DevGeniusIT/Task-manager-system/assets/118427777/6737d289-8fc6-4043-bd77-030b0fdd6f3d)
 ![image](https://github.com/DevGeniusIT/Task-manager-system/assets/118427777/9949881f-b1cf-4933-a5af-3f6660386d30)
