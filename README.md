@@ -10,12 +10,12 @@ When creating a project, the admin or project managers must list all the employe
 >
 ***FEATURES***
  > ```•	Login Page
->    •Home Page
+>    • Home Page
 >    •	Project (CRUD Features)
 >    •	Task List Page
 >    •	Progress Form
 >    •	Report Generation
->  •	User (CRUD Features)```
+>    •	User (CRUD Features)```
 > 
 ***SCREEN:***
 ![image](https://github.com/DevGeniusIT/Task-manager-system/assets/118427777/6737d289-8fc6-4043-bd77-030b0fdd6f3d)
