@@ -10,8 +10,8 @@ When creating a project, the admin or project managers must list all the employe
 >
 ***FEATURES***
  > ```•	Login Page
-  •	Home Page
-  •	Project (CRUD Features)
+>    •	Home Page
+>    •	Project (CRUD Features)
   •	Task List Page
   •	Progress Form
   •	Report Generation
